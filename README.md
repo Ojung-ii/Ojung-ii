@@ -12,6 +12,8 @@
 type=venom&color=timeGradient&text=Welcome%20to%20Ojung-ii’s%20GitHub%20👋
 &animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh7839)](https://solved.ac/ojh7839/)
+
 [![Ojung-ii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojung-ii)](https://github.com/Ojung-ii/github-readme-stats)
 
 ### 💻 Blog
