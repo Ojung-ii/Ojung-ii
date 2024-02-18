@@ -28,13 +28,17 @@ type=venom&color=timeGradient&text=Welcome%20to%20Ojung-ii’s%20GitHub%20👋
 ----
 <div style=“display:flex; flex-direction:row;”>
 <a href="mailto:ojh7839@gmail.com“>
-<img src=”https://img.shields.io/badge/
-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<img src=”https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 <a href="https://www.instagram.com/o_jung.ii“>
-<img src=”https://img.shields.io/badge/
-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src=”https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+
+
+📫  How to contact me<br>
+<img alt="Gmail" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+
 
 ### Skills
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
