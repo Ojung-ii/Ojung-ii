@@ -8,9 +8,7 @@
 * <strong>MLOps</strong>
 
 
-![header](https://capsule-render.vercel.app/api?
-type=venom&color=timeGradient&text=Welcome%20to%20Ojung-ii’s%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ojung-ii’s%20GitHub%20👋&section=header&reversal=false&textBg=false&fontColor=00000&fontSize=80&fontAlign=50&descAlign=70&descAlignY=74)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh7839)](https://solved.ac/ojh7839/)
 
@@ -18,11 +16,11 @@ type=venom&color=timeGradient&text=Welcome%20to%20Ojung-ii’s%20GitHub%20👋
 
 ### 💻 Blog
 ----
-  <div style=“display:flex; flex-direction:row;”>
-  <a href="https://ojungii-pacemaker.tistory.com/“>
-  <img src=”https://img.shields.io/badge/
-  Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-  </a>
+<div style=“display:flex; flex-direction:row;”>
+<a href="https://ojungii-pacemaker.tistory.com/“>
+<img src=”https://img.shields.io/badge/
+Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+</a>
 
 ### 📞 Contact 📞
 ----
