@@ -14,15 +14,14 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh7839)](https://solved.ac/ojh7839/)
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/Ojung-ii/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ojung-ii" alt="Ojung-ii's GitHub stats" style="vertical-align:middle; margin: 0px 10px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ojung-ii" alt="Ojung-ii's GitHub stats" style="height: 150px; margin-right: 20px;"/>
   </a>
   <a href="https://solved.ac/ojh7839/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh7839" alt="Solved.ac Profile" style="vertical-align:middle; margin: 0px 10px"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh7839" alt="Solved.ac Profile" style="height: 150px;"/>
   </a>
-</p>
-
+</div>
 
 ### 💻 Blog
 ----
