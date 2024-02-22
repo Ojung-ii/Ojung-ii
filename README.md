@@ -10,9 +10,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ojung-ii’s%20GitHub%20👋&section=header&reversal=false&textBg=false&fontColor=00000&fontSize=80&fontAlign=50&descAlign=70&descAlignY=74)
 
+[![Ojung-ii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojung-ii)](https://github.com/Ojung-ii/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh7839)](https://solved.ac/ojh7839/)
 
-[![Ojung-ii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojung-ii)](https://github.com/Ojung-ii/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/Ojung-ii/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ojung-ii" alt="Ojung-ii's GitHub stats" style="vertical-align:middle; margin: 0px 10px"/>
+  </a>
+  <a href="https://solved.ac/ojh7839/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh7839" alt="Solved.ac Profile" style="vertical-align:middle; margin: 0px 10px"/>
+  </a>
+</p>
+
 
 ### 💻 Blog
 ----
