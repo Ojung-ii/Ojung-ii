@@ -7,6 +7,7 @@
 * <strong>Data Science</strong>
 * <strong>Data Analyst</strong>
 * <strong>MLOps</strong>
+* <strong>Product Manager</strong>
 <br>
 <br>
 <br>
