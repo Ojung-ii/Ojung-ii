@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ojung-ii’s%20GitHub%20👋&section=header&reversal=false&textBg=false&fontColor=00000&fontSize=80&fontAlign=50&descAlign=70&descAlignY=74" />
 </div>
  
-## Profile
+## 👦🏻 Profile
 ### 🔨Interested In
 * <strong>Data Science</strong>
 * <strong>Data Analyst</strong>
