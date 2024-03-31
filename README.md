@@ -4,9 +4,9 @@
  
 ## 👦🏻 Profile
 ### 🔨Interested In
-* <strong>Data Science</strong>
-* <strong>Data Analyst</strong>
-* <strong>MLOps</strong>
+* <strong>LLM</strong>
+* <strong>Information Retrieval</strong>
+* <strong>Biomedical imaging</strong>
 * <strong>Product Manager</strong>
 <br>
 <br>
