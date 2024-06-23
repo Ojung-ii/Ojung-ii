@@ -3,14 +3,6 @@
 </div>
  
 ## 👦🏻 Profile
-### 🔨Interested In
-* <strong>LLM</strong>
-* <strong>Information Retrieval</strong>
-* <strong>Biomedical imaging</strong>
-* <strong>Product Manager</strong>
-<br>
-<br>
-<br>
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; max-width: 600px; margin: auto;">
   <a href="https://github.com/Ojung-ii/github-readme-stats">
