@@ -8,9 +8,9 @@
   <a href="https://github.com/Ojung-ii/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Ojung-ii" alt="Ojung-ii's GitHub stats" style="height: 180px;"/>
   </a>
-  <a href="https://solved.ac/ojh7839/">
+  <!-- <a href="https://solved.ac/ojh7839/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh7839" alt="Solved.ac Profile" style="height: 180px;"/>
-  </a>
+  </a> -->
 </div>
 <br>
 
