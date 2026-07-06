@@ -4,15 +4,6 @@
  
 ## 👦🏻 Profile
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; max-width: 600px; margin: auto;">
-  <a href="https://github.com/Ojung-ii/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ojung-ii" alt="Ojung-ii's GitHub stats" style="height: 180px;"/>
-  </a>
-  <!-- <a href="https://solved.ac/ojh7839/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh7839" alt="Solved.ac Profile" style="height: 180px;"/>
-  </a> -->
-</div>
-<br>
 
 ### 💻 Blog
 <div style="display:flex; flex-direction:row;">
@@ -21,7 +12,6 @@
   </a>
 </div>
 
-<br>
 
 ### 📋 Skills
 <div>
@@ -38,7 +28,7 @@
 </div>
 <br>
 
-### 📞 Contact 📞
+### 📞 Contact
 <div style="display:flex; flex-direction:row;">
   <a href="mailto:ojh7839@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
